@@ -1,0 +1,16 @@
+.jumbotron {
+	padding-top: 5rem;
+	background-color: #ff616f;
+}
+
+.activity, .video {
+	background-color: #ff616f;
+}
+
+footer {
+	background-color: #ff1744;
+}
+
+section {
+	padding-top: 6rem;
+}
